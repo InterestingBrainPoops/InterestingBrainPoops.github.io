@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "ShaderToy1"
+date:   2021-01-29 09:20:51 -0800
+tags: ShaderToy
+---
+What is shadertoy?  
+Well, according to the internet, a great way to get into 3D graphics is to make a shadertoy.  
+I started off in JS, and I hope to get this a bit further than its current primitive stage.  
+As of now, it has the following "features":  
+
+ - A light source thats movable
+ - A camera
+ - Handling of multiple spheres
+ - Relatively efficient.
+
+ShaderToy itself is a raytracer built in JS.  
+Follow development over at the [github repo](github.com/ShaderToy)
